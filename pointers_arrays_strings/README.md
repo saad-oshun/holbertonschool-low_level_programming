@@ -15,3 +15,16 @@ Functions practicing pointers, arrays and strings in C.
 | `8-print_array.c` | Prints n elements of an int array |
 | `9-strcpy.c` | Copies a string, including the null byte |
 | `100-atoi.c` | Converts a string to an integer |
+
+## C - More pointers, arrays and strings
+
+| File | Description |
+|------|-------------|
+| `0-strcat.c` | Concatenates two strings |
+| `1-strncat.c` | Concatenates at most n bytes of src to dest |
+| `2-strncpy.c` | Copies a string like `strncpy` |
+| `3-strcmp.c` | Compares two strings like `strcmp` |
+| `4-rev_array.c` | Reverses an array of integers |
+| `5-string_toupper.c` | Changes lowercase letters to uppercase |
+| `6-cap_string.c` | Capitalizes all words of a string |
+| `7-leet.c` | Encodes a string into 1337 |
