@@ -7,7 +7,7 @@
  * @n: the number of bytes to write in dest
  *
  * Description: if src is shorter than n, the rest of dest is
- * filled with null bytes, exactly like strncpy.
+ * filled with null bytes.
  * Return: a pointer to dest
  */
 char *_strncpy(char *dest, char *src, int n)
